@@ -1,0 +1,18 @@
+2016-11-09 16:58:06,823 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' E:\myproject\myproject\my1\pom.xml
+2016-11-09 16:58:09,106 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: new:my1:0.0.1-SNAPSHOT @ E:\myproject\myproject\my1\pom.xml.
+2016-11-09 16:58:10,605 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my1/src/main/java
+2016-11-09 16:58:10,606 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /my1/src/main/resources
+2016-11-09 16:58:10,607 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /my1/src/test/java
+2016-11-09 16:58:14,839 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 8 sec
+2016-11-09 16:58:15,529 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-09 16:58:15,538 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-09 16:58:15,542 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-09 16:58:15,543 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\myproject\myproject\my1\src\test\resources
+2016-11-09 16:58:17,650 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-09 16:58:17,654 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-09 16:58:17,655 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-09 16:58:17,656 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\myproject\myproject\my1\src\test\resources
+2016-11-10 12:24:25,453 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-10 12:24:25,611 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-10 12:24:25,617 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2016-11-10 12:24:25,618 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\myproject\myproject\my1\src\test\resources
